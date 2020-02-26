@@ -1,1 +1,3 @@
+cd ~
+pwd
 git clone https://dhanushreemc:d758460b28bfa5c0b6646b94be3cb96ff93966b9@github.com/Git2Swarm/insurance-deploy.git
