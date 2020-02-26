@@ -16,4 +16,8 @@ hooks:
     - location: scripts/start_server
       timeout: 300
       runas: root
+  AfterInstall:
+    - location: Scripts/clone_repo
+      timeout: 180
+      runas: ubuntu
 
