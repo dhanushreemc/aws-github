@@ -19,4 +19,4 @@ hooks:
   AfterInstall:
     - location: scripts/clone_repo
       timeout: 180
-      runas: root
+      runas: ubuntu
