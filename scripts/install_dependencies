@@ -1,5 +1,4 @@
 #!/bin/bash
 apt-get install -y apache2
 rm -rf /var/www/html/index.html
-cd ~
-git clone https://dhanushreemc:d758460b28bfa5c0b6646b94be3cb96ff93966b9@github.com/Git2Swarm/insurance-deploy.git
+
